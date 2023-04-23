@@ -1,1 +1,7 @@
-v1.0.1
+
+- Optimized aimbot
+- Fixed up smoothness
+- Shake value ( WIP )
+- Fixed DLL Injection
+
+Updated at 11:33 PM 4/22/2023
